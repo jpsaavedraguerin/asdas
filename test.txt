@@ -1,1 +1,3 @@
-adas
+Este archivo fue creado antes y tiene este texto
+Cuando escriba el archivo en otro branch y haga fusione ambos podría
+genera conflictos
